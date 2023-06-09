@@ -134,8 +134,8 @@
                         </ProjectCard>
                     </li>
                     <li class="slice mb-20">
-                        <ProjectCard title="Slice Of Heaven" hoverColor="#FEB32D" imageSrc="desktop\SliceOfheaven.png" linkSrc="https://bomanstatic.github.io/dist/" githubLink="https://github.com/BomanStatic/BomanStatic.github.io">
-                            <p class="text-gray-400" slot="info">Slice of Heaven: A mouthwatering, static website for a fictional pizza place. Built with HTML and Tailwind CSS, it offers a seamless user experience, showcasing the enticing menu and capturing the essence of the pizzeria..</p>
+                        <ProjectCard title="Slice Of Heaven" hoverColor="#FEB32D" imageSrc="desktop\SliceOfheaven.webp" linkSrc="https://bomanstatic.github.io/dist/" githubLink="https://github.com/BomanStatic/BomanStatic.github.io">
+                            <p class="text-gray-400" slot="info">Slice of Heaven: A mouthwatering, static website for a fictional pizza place. Built with HTML and Tailwind CSS, it offers a seamless user experience, showcasing the enticing menu and capturing the essence of the pizzeria.</p>
                             <svelte:fragment slot="built-with">
                                 <Buildwith lang="html" icon="skill-icons:html"/>
                                 <Buildwith lang="tailwind" icon="file-icons:tailwind"/>
@@ -143,7 +143,7 @@
                         </ProjectCard>
                     </li>
                     <li class="slice mb-20">
-                        <ProjectCard title="This site" hoverColor="#FEB32D" imageSrc="desktop\SliceOfheaven.png" linkSrc="/" githubLink="https://github.com/BomanStatic/BomanStatic.github.io">
+                        <ProjectCard title="This site" hoverColor="#FEB32D" imageSrc="desktop\portfolio.webp" linkSrc="/" githubLink="https://github.com/BomanStatic/BomanStatic.github.io">
                             <p class="text-gray-400" slot="info">My frontend development portfolio demonstrates my skills in creating user-friendly interfaces for websites and web applications. It showcases my expertise in web design and highlights my commitment to delivering exceptional user experiences.</p>
                             <svelte:fragment slot="built-with">
                                 <Buildwith lang="html" icon="skill-icons:html"/>

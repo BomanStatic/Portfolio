@@ -1,38 +1,26 @@
-# create-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+## ⛲ Live Version
 
-## Creating a project
+Check out the website: [Portfolio](https://portfolio-five-nu-32.vercel.app/)
 
-If you're seeing this, you've probably already done this step. Congrats!
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## 👇 Prerequisites
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+Before installation, please make sure you have already installed the following tools:
 
-## Developing
+- [Git](https://git-scm.com/downloads)
+- [NodeJs](https://nodejs.org/en/download/)
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## 🛠️ Installation Steps
 
-```bash
-npm run dev
+1. Fork the project [here](https://github.com/BomanStatic/Portfolio/fork)
+2. Clone the project
+   ```bash
+     git clone https://github.com/YOUR_USERNAME/Portfolio.git
+   ```
+3. Navigate to the project directory `cd Portfolio`
+4. Install dependencies with `npm install`
+7. Run `npm run dev`
+## 🙏 Support
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️.
