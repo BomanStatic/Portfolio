@@ -1,4 +1,4 @@
-
+![SC](https://github.com/BomanStatic/Portfolio/assets/133013695/4f8006c5-cb1c-4da6-9ec3-4b3f1b7ea6e5)
 ## ⛲ Live Version
 
 Check out the website: [Portfolio](https://portfolio-five-nu-32.vercel.app/)
