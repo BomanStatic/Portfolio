@@ -82,7 +82,7 @@
                         <a target="_blank" href="https://github.com/BomanStatic">
                             <iconify-icon width="30" height="30" class="icon" style="color: white;" icon="line-md:github"></iconify-icon>
                         </a>
-                        <a href="/">
+                        <a target="_blank" href="https://www.linkedin.com/in/pontus-boman-aa85131bb/">
                             <iconify-icon width="30" height="30" class="icon" style="color: white;" icon="line-md:linkedin"></iconify-icon>
                         </a>
                     </div>
