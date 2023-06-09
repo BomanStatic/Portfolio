@@ -4,13 +4,6 @@
 Check out the website: [Portfolio](https://portfolio-five-nu-32.vercel.app/)
 
 
-## 👇 Prerequisites
-
-Before installation, please make sure you have already installed the following tools:
-
-- [Git](https://git-scm.com/downloads)
-- [NodeJs](https://nodejs.org/en/download/)
-
 ## 🛠️ Installation Steps
 
 1. Fork the project [here](https://github.com/BomanStatic/Portfolio/fork)
